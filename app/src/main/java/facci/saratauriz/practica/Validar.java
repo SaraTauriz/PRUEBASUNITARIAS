@@ -1,8 +1,5 @@
-package facci.SaraTS.practica;
+package facci.saratauriz.practica;
 
-
-import android.os.Bundle;
-import android.widget.EditText;
 
 public class Validar {
 

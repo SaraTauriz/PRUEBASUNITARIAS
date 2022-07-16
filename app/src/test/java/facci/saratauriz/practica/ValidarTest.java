@@ -1,4 +1,4 @@
-package facci.SaraTS.practica;
+package facci.saratauriz.practica;
 
 
 import static org.junit.Assert.assertTrue;
